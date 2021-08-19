@@ -17,7 +17,7 @@ cascade:
     title: Create a Collection
 description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
   to be read in sequence. This section is like a blog series, \nminus the blog.\n"
-layout: list-sidebar
+layout: standard
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
