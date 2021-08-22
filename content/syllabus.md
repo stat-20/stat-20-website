@@ -1,24 +1,22 @@
 ---
 title: "Syllabus"
-subtitle: "Welcome to the Age of Data, where information is all around us, helping us live happier, healthier lives. Or does it? Do we know yet if cell phones cause cancer? Have we come to a decision on whether we should be eating lots of meat or none at all to stay healthy? Despite all of this information, it can be challenging to turn it into the knowledge from which we can make sound decisions. Statistics is the field that aims to bridge this gap between information and knowledge."
 description: The goals and policies of Stat-20
 draft: false
 layout: single
 show_title_as_headline: true
 ---
 
-
+Welcome to the Age of Data, where information is all around us, helping us live happier, healthier lives. Or does it? Do we know yet if cell phones cause cancer? Have we come to a decision on whether we should be eating lots of meat or none at all to stay healthy? Despite all of this information, it can be challenging to turn it into the knowledge from which we can make sound decisions. Statistics is the field that aims to bridge this gap between information and knowledge.
 
 ## Topics
 
-This course is an application-oriented introduction to statistical modeling and inference. The topics that we'll be covering include:
+**The primary goal of this course is for you to be able to critique and construct arguments using data**. The course is application-oriented introduction to statistical modeling and inference that spans a range of topics including:
 
-- Study design
 - Descriptive statistics
 - Data visualization
 - Probability and random variable notation
-- Sampling distributions
-- Point and interval estimates
+- Study design
+- Point and interval estimation
 - Hypothesis tests
 - Resampling procedures
 - Multiple linear regression
@@ -31,9 +29,31 @@ A wide variety of applications from the natural and social sciences will be used
 
 ### Textbook
 
-### Rstudio
+The textbook associated with this course is [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by &#199;etinkaya-Rundel and Hardin. This is a free online textbook that can also be downloaded as a [pdf](https://leanpub.com/imstat) or ordered in [print](https://www.amazon.com/Introduction-Modern-Statistics-Mine-%C3%87etinkaya-Rundel/dp/1943450145/) for $15. It is also open-source, meaning that anyone can view and modify its [contents](https://github.com/openintrostat/ims/blob/master/index.Rmd) (take a look under the hood!).
+
+### R
+
+The software that we'll be using for our data analysis is the free and open-source language called R that we'll be interacting with via software called RStudio. As a Berkeley student, you have your own version of RStudio waiting you for at: [http://r.datahub.berkeley.edu](http:\\r.datahub.berkeley.edu).
 
 ## Course components
+
+As a 4 unit course, you should plan to be engaged with this course roughly 12 hours each week:
+
+- 3 hours lecture
+- 2 hours lab
+- 2 hours finishing up lab
+- 2 hours studying (reviewing notes, reading textbook)
+- 1 hour office hours, forum
+- 2 hours problem set
+
+Each week you'll be submitting a problem set and a lab. There will be two midterms and a final as well as a few short quizzes. Your final grade in the course will be computed based on:
+
+- Problem sets 10%
+- Labs 20%
+- Quizzes 10%
+- Midterm I 20%
+- Midterm II 20%
+- Final 20%
 
 ## Policies
 
@@ -43,9 +63,7 @@ Stat-20 is a course that is designed to allow all students to succeed.  If you h
 
 ### Academic Integrity
 
-You are a member of an academic community at one of the world’s leading research universities. Universities like Berkeley create knowledge that has a lasting impact in the world of ideas and on the lives of others; such knowledge can come from an undergraduate paper as well as the lab of an internationally known professor.  One of the most important values of an academic community is the balance between the free flow of ideas and the respect for the intellectual property of others. Researchers don't use one another's research without permission; scholars and students always use proper citations in papers; professors may not circulate or publish student papers without the writer's permission; and students may not circulate or post materials (handouts, exams, syllabi--any class materials) from their classes without the written permission of the instructor.
-
-You are encouraged to collaborate with your fellow students on assignments, but all of your collaborators must be cited and the work you turn in should reflect your own understanding.
+You are encouraged to collaborate with your fellow students on problem sets and labs, but the work you turn in should reflect your own understanding and all of your collaborators must be cited. Researchers don't use one another's research without permission; scholars and students always use proper citations in papers; professors may not circulate or publish student papers without the writer's permission; and students may not circulate or post materials (handouts, exams, syllabi--any class materials) from their classes without the written permission of the instructor.
 
 ### Scheduling Conflicts
 
