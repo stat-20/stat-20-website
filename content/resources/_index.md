@@ -13,7 +13,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all resources
     text_link_url: /resources/
-description: Resources to help on your journey through statistics.
+description: Stay tuned.
 
 # sidebar:
 #   author: The R Markdown Team @RStudio
