@@ -15,3 +15,5 @@ xaringanthemer::style_mono_accent(
                      ".pull-right-wide" = list("width" = "70%",
                                                "float" = "right"))
 )
+
+ggplot2::theme_set(ggplot2::theme_gray(base_size = 18))
