@@ -15,5 +15,5 @@ xaringanthemer::style_mono_accent(
                                                 "float" = "left"),
                      ".pull-right-wide" = list("width" = "70%",
                                                "float" = "right"),
-                     ".big-code" = list("font_size" = "150%"))
+                     ".huge-code" = list("font_size" = "400%"))
 )
