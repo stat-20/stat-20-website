@@ -6,6 +6,7 @@ xaringanthemer::style_mono_accent(
     header_font_google = xaringanthemer::google_font("Bitter", "300"),
     text_font_google   = xaringanthemer::google_font("Commissioner"),
     code_font_google   = xaringanthemer::google_font("Fira Mono"),
+    code_font_size = "20px",
     extra_css = list(".pull-left-wide" = list("width" = "70%",
                                               "float" = "left"),
                      ".pull-right-narrow" = list("width" = "27%",
