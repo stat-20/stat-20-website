@@ -16,9 +16,5 @@ xaringanthemer::style_mono_accent(
                      ".pull-right-wide" = list("width" = "70%",
                                                "float" = "right"),
                      ".mini" = list("font-size" = "65%"),
-                     ".my-footer" = list(position: absolute,
-                                            bottom: "15px",
-                                            right:   "8px",
-                                            height: "40px",
-                                            width: "120px"))
+                     ".cite" = list("vertical-align" = "bottom"))
 )
