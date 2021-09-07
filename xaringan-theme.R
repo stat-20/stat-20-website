@@ -15,5 +15,11 @@ xaringanthemer::style_mono_accent(
                                                 "float" = "left"),
                      ".pull-right-wide" = list("width" = "70%",
                                                "float" = "right"),
-                     ".mini" = list("font-size" = "65%"))
+                     ".mini" = list("font-size" = "65%"),
+                     "div.my-footer" = list(content: "",
+                                            position: absolute,
+                                            bottom: "15px",
+                                            right:   "8px",
+                                            height: "40px",
+                                            width: "120px"))
 )
