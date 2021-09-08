@@ -1,4 +1,7 @@
-ggplot2::theme_set(theme_bw())
+theme_stat20 <- theme_gray() +
+    theme(plot.background = element_rect(fill = "#F3F3EE",
+                                         colour = NA))
+ggplot2::theme_set(theme_stat20)
 
 xaringanthemer::style_mono_accent(
     background_color = "#F3F3EE",
