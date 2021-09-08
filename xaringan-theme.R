@@ -1,3 +1,5 @@
+ggplot2::theme_set(theme_bw())
+
 xaringanthemer::style_mono_accent(
     background_color = "#F3F3EE",
     base_color = "#2F4C3E",
