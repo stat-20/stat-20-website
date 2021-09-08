@@ -23,5 +23,13 @@ xaringanthemer::style_mono_accent(
                      ".mini" = list("font-size" = "65%"),
                      ".cite" = list("vertical-align" = "bottom",
                                     "font-size" = "50%",
-                                    "text-align" = "right"))
+                                    "text-align" = "right"),
+                     ".task" = list("padding-right"    = "10px",
+                                    "padding-left"     = "10px",
+                                    "padding-top"      = "3px",
+                                    "padding-bottom"   = "3px",
+                                    "margin-bottom"    = "6px",
+                                    "margin-top"       = "6px",
+                                    "border-left"      = "solid 5px #F1DE67",
+                                    "background-color" = "#F1DE6750"))
 )
