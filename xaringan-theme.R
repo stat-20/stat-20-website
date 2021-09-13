@@ -12,9 +12,9 @@ ggplot2::theme_set(theme_stat20)
 
 # set xaringan theme
 xaringanthemer::style_mono_accent(
-    background_color = "warm_white",
-    base_color = "forest_green",
-    text_bold_color = "kelly_green",
+    background_color = warm_white,
+    base_color = forest_green,
+    text_bold_color = kelly_green,
     text_font_size = "1.5rem",
     header_font_google = xaringanthemer::google_font("Bitter", "300"),
     text_font_google   = xaringanthemer::google_font("Commissioner"),
