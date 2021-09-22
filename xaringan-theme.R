@@ -13,8 +13,7 @@ adage_font  <- xaringanthemer::google_font("Amatic SC", "Bold", "700")
 # set ggplot2 theme
 theme_stat20 <- theme_gray() +
     theme(plot.background = element_rect(fill = warm_white,
-                                         colour = NA),
-          base_size = 16)
+                                         colour = NA))
 ggplot2::theme_set(theme_stat20)
 
 # set xaringan theme
