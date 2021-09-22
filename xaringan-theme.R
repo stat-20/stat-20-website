@@ -4,6 +4,12 @@ forest_green <- "#2F4C3E"
 kelly_green <- "#4A7862"
 yellow <- "#F1DE67"
 
+# fonts
+header_font <- xaringanthemer::google_font("Bitter", "300")
+text_font   <- xaringanthemer::google_font("Commissioner")
+code_font   <- xaringanthemer::google_font("Fira Mono")
+adage_font  <- xaringanthemer::google_font("Amatic SC", "Bold", "700")
+
 # set ggplot2 theme
 theme_stat20 <- theme_gray() +
     theme(plot.background = element_rect(fill = warm_white,
@@ -16,9 +22,10 @@ xaringanthemer::style_mono_accent(
     base_color = forest_green,
     text_bold_color = kelly_green,
     text_font_size = "1.5rem",
-    header_font_google = xaringanthemer::google_font("Bitter", "300"),
-    text_font_google   = xaringanthemer::google_font("Commissioner"),
-    code_font_google   = xaringanthemer::google_font("Fira Mono"),
+    header_font_google = header_font,
+    text_font_google   = text_font,
+    code_font_google   = code_font,
+    extra_fonts = list(adage_font),
     code_font_size = "20px",
     extra_css = list(".pull-left-wide" = list("width" = "70%",
                                               "float" = "left"),
