@@ -1,5 +1,5 @@
 # name of css file
-css_filename <- "stat20_theme.css"
+css_filename <- "stat20-theme.css"
 
 # color palette
 warm_white <- "#F3F3EE"
