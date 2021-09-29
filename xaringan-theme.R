@@ -1,3 +1,6 @@
+# name of css file
+theme_name <- "xaringan-theme"
+
 # color palette
 warm_white <- "#F3F3EE"
 forest_green <- "#2F4C3E"
@@ -18,6 +21,7 @@ ggplot2::theme_set(theme_stat20)
 
 # set xaringan theme
 xaringanthemer::style_mono_accent(
+    outfile = theme_name,
     background_color = warm_white,
     base_color = forest_green,
     text_bold_color = kelly_green,

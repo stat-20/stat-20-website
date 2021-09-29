@@ -79,3 +79,5 @@ You are encouraged to collaborate with your fellow students on problem sets and 
 ### Scheduling Conflicts
 
 This course, Stat-20 Lecture 2 in Fall 2021, is held in-person and we expect that you'll be present in lecture and discussion section. We have built in some slack that allows for occasional absence, but if you are not able to be in-person, the fully remote section of Stat-20, Lecture 1, will be a better fit for you.
+
+hi mom!
