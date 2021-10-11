@@ -25,7 +25,6 @@ Welcome to the Age of Data, where information is all around us, helping us live 
 
 A wide variety of applications from the natural and social sciences will be used. Our computation tool throughout will be the R language and all data analysis will be performed using a fully reproducible framework.
 
-
 ## Resources
 
 ### Textbook
@@ -64,7 +63,7 @@ Each week you'll be submitting a problem set and a lab. There will be two midter
 - Midterm II 20%
 - Final 20%
 
-The goal of your course staff is to help you show your mastery of the material. As such, the course will not be curved. The quizzes and midterms will have some component that you will be allowed to revise if you wish. Additionally, your weakest problem set, lab, and quiz will be dropped before calculating your grade for the course.
+The goal of your course staff is to help you develop and demonstrate your mastery of the material. As such, the course will not be curved. The quizzes and midterms will have some component that you will be allowed to revise if you wish. Additionally, your weakest problem set, lab, and quiz will be dropped before calculating your grade for the course.
 
 ## Policies
 
@@ -79,5 +78,3 @@ You are encouraged to collaborate with your fellow students on problem sets and 
 ### Scheduling Conflicts
 
 This course, Stat-20 Lecture 2 in Fall 2021, is held in-person and we expect that you'll be present in lecture and discussion section. We have built in some slack that allows for occasional absence, but if you are not able to be in-person, the fully remote section of Stat-20, Lecture 1, will be a better fit for you.
-
-hi mom!
